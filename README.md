@@ -51,20 +51,6 @@ O projeto foi desenvolvido como **trabalho acadêmico** do curso de Tecnologia d
 
 ---
 
-## 📱 Telas
-
-> Adicione aqui os prints do app, salvando as imagens em uma pasta `docs/` do repositório.
-
-<div align="center">
-
-| Login / Cadastro | Escolha de perfil | Categorias | Frases |
-| :---: | :---: | :---: | :---: |
-| <img src="docs/cadastro.png" width="180" alt="Tela de cadastro" /> | <img src="docs/genero.png" width="180" alt="Tela de escolha de perfil" /> | <img src="docs/categorias.png" width="180" alt="Tela de categorias" /> | <img src="docs/frases.png" width="180" alt="Tela de frases" /> |
-
-</div>
-
----
-
 ## 🛠️ Tecnologias
 
 | Tecnologia | Uso no projeto |
